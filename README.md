@@ -1,2 +1,3 @@
 # proxy-monitor-691060
-Service prototype
+
+Side project notes.
